@@ -50,4 +50,4 @@ df = df.sort_values(["product_id", "temp_date"]).drop(columns=["temp_date"])
 file_name = "Retail_Price_Optimization_Test.csv"
 df.to_csv(file_name, index=False)
 
-print(f"✅ Successfully generated {file_name} with {len(df)} rows!")
+print(f" Successfully generated {file_name} with {len(df)} rows!")
