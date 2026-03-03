@@ -19,4 +19,8 @@ stable-baselines3>=2.2.1
 gymnasium>=0.29.1
 
 # Optional: To run the notebook locally
+<<<<<<< HEAD
 jupyter>=1.0.0
+=======
+jupyter>=1.0.0
+>>>>>>> 8fb7a734c9926d3e7cd786a6cc7fbf7b22bc569e
